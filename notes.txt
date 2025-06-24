@@ -1,0 +1,55 @@
+classification of SL
+It is classified into two type
+-classification
+-regression
+
+-----------------------------------------------------------------------------------------------------
+
+Purpose: To find the connection between dependent and independent variables.
+
+Dependent Variable: The outcome or value you want to predict (e.g., humidity).
+
+Independent Variable: The factor used to make predictions (e.g., temperature).
+
+Example:
+
+If temperature is the independent variable and humidity is the dependent variable:
+
+As temperature increases, humidity decreases.
+
+This shows an inverse correlation.
+
+Usage: Mostly used for forecasting and projections.
+
+-----------------------------------------------------------------------------------------------------
+
+REGRESSION (SL)
+Organizations commonly use regression models for stock prediction.
+
+This involves analyzing past stock prices and trends to find patterns.
+
+Popular regression algorithms in Supervised Learning (SL) include:
+
+Linear Regression
+
+Regression Trees
+
+Non-Linear Regression
+
+Bayesian Linear Regression
+
+-----------------------------------------------------------------------------------------------------
+
+BIAS
+In the simplest terms, Bias is the difference between the Predicted Value and the Expected Value.
+
+To explain further, the model makes certain assumptions when it trains on the data provided.
+
+When it is introduced to the testing/validation data, these assumptions may not always be correct.
+
+-----------------------------------------------------------------------------------------------------
+
+VARIANCE
+Variance refers to the amount the target model will change when trained with different training data.
+
+For a good model, the variance should be minimized.
