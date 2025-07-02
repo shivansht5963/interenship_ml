@@ -1,0 +1,1 @@
+# Logistic regression is a statistical method used for classification problems, particularly those with a binary outcome (e.g., yes/no, true/false).
